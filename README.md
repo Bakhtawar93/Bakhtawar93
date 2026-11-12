@@ -58,7 +58,7 @@ I enjoy working on real-world applications, solving technical challenges, and im
 
 - **LinkedIn:** [bakhtawarabbasdev](https://www.linkedin.com/in/bakhtawarabbasdev/)
 - **Email:** [abbasbnaqvi1993@gmail.com](mailto:abbasbnaqvi1993@gmail.com)
-- **Portfolio:** (https://bakhtawar-portfolio.pages.dev/)
+- **Portfolio:** https://bakhtawar-portfolio.pages.dev/
 
 ---
 
